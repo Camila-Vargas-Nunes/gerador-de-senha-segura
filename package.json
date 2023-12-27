@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "clipboard-copy": "^4.0.1",
+    "nanoid": "^5.0.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
 }
